@@ -1,5 +1,7 @@
 import React from 'react'
 
-const Home = () => <div>Hello World!</div>
+import Mrt from './Mrt'
+
+const Home = () => <div>Hello World! <Mrt /></div>
 
 export default Home
